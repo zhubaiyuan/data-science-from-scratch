@@ -1,2 +1,9 @@
 # For plotting graphs
 matplotlib
+
+# For making HTTP requests
+requests
+
+# For parsing HTML
+beautifulsoup4
+html5lib
