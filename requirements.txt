@@ -7,3 +7,6 @@ requests
 # For parsing HTML
 beautifulsoup4
 html5lib
+
+# For accessing Python
+twython
