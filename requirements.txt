@@ -10,3 +10,6 @@ html5lib
 
 # For accessing Python
 twython
+
+# For generating progress bars
+tqdm
